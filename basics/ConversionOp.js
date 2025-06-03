@@ -1,6 +1,5 @@
 let score = "33"  //this is a string
 console.log(typeof score) //printing datatype of score
-
 console.log(typeof(score)) //printing datatype of score
 
 let ValueInNumber=Number(score); // this is the conversion of a string into a number
@@ -18,3 +17,7 @@ console.log(score1)
 // we can use for conversion like to convert thing 
 // we have to use String(),Number(),Boolean etc
 // for example : let conversionToString = String(Number) 
+
+
+/***********************OPERATIONS*********************** */
+ 
